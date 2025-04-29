@@ -1,0 +1,7 @@
+keep both .pkl file the model directory 
+
+Link :  https://drive.google.com/drive/folders/1oZszVeL8j57kwcSjKT_nP5-i9fU8xZsP
+
+ model/
+   ├── movie_list.pkl
+   └── similarity.pkl

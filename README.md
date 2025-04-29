@@ -3,13 +3,10 @@
 ## NLP based movie recommendation system
 
 MOVIE RECOMMENDATION/
-├── app.py
-├── requirements.txt
-├── README.md
-├── model/
-│   ├── movie_list.pkl
-│   └── similarity.pkl
-
+- `app.py`:
+- `model/movie_list.pkl`: 
+- `model/similarity.pkl`:
+- `requirements.txt`: 
 
 ![Image](https://github.com/user-attachments/assets/03ceb4c1-fa34-49b2-93a9-584d689714e7)
 
